@@ -107,19 +107,9 @@ Com esta atividade, foi possível praticar:
 
 ---
 
-🧩 Possíveis Melhorias Futuras
-
-* Validação de campos vazios
-* Adição de imagens do personagem
-* Seleção de classes por lista (`select`)
-* Animações na exibição do texto
-* Salvamento do personagem criado
-
----
-
 📌 Conclusão
 
-O Gerador de Personagens de RPG** é um projeto simples, porém eficiente, que demonstra na prática como o JavaScript pode ser utilizado para tornar páginas HTML dinâmicas e interativas. Ele atende completamente aos requisitos propostos na atividade e serve como uma ótima base para projetos maiores no futuro.
+O Gerador de Personagens de RPG é um projeto simples, porém eficiente, que demonstra na prática como o JavaScript pode ser utilizado para tornar páginas HTML dinâmicas e interativas. Ele atende completamente aos requisitos propostos na atividade e serve como uma ótima base para projetos maiores no futuro.
 
 ---
 
