@@ -49,6 +49,8 @@ O foco principal da atividade é **praticar lógica de programação, manipulaç
 
 ⚙️ Funcionamento do Sistema
 
+---
+
 O funcionamento do projeto segue três etapas principais:
 
 ### 1️⃣ Captura de Dados
