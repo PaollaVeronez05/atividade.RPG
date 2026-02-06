@@ -109,6 +109,14 @@ Com esta atividade, foi possível praticar:
 
 ---
 
+✍️ Autoria
+
+Este projeto foi desenvolvido por:
+
+Autora: Paolla Paula Veronez 
+
+---
+
 📌 Conclusão
 
 O Gerador de Personagens de RPG é um projeto simples, porém eficiente, que demonstra na prática como o JavaScript pode ser utilizado para tornar páginas HTML dinâmicas e interativas. Ele atende completamente aos requisitos propostos na atividade e serve como uma ótima base para projetos maiores no futuro.
