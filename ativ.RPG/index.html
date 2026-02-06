@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>atividade RPG</title>
+
+</head>
+<body>
+    <h1>Encontre seu personagem:</h1> 
+    <p>Você pode escolher o Nome,A classe e a principal habilidade</p>
+
+  
+    <form name="persona" action="" method="post">
+        Digite o nome: <input type="text" name="p_nome" /> <p></p>
+        Digite a classe: <input type="text" name="p_classe" /> <p></p>
+        Digite o habilidade: <input type="text" name="p_habilidade" /> <p></p>
+      <input type="button" name="btn_gerar" value="Gerar" onclick="gerar()">
+    <input type="reset" value="Cancelar" onclick="document.getElementById('result').style.display='none'">
+
+
+    <script src="script.js"></script>
+    <div id="result"></div>
+
+    </form>
+</body>
+</html>
