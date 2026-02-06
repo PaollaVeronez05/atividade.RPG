@@ -1,5 +1,7 @@
  🎮 Gerador de Personagens de RPG
 
+ ---
+
 Este projeto consiste em um Gerador de Personagens de RPG, desenvolvido com **HTML, CSS e JavaScript**, cujo objetivo é permitir que o usuário crie rapidamente a introdução de um personagem de forma interativa e dinâmica.
 
 A aplicação simula um sistema utilizado por jogos de RPG para apresentar heróis em uma narrativa épica, exibindo a frase final diretamente na interface do site.
