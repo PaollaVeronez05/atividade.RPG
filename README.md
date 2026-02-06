@@ -65,7 +65,7 @@ A frase final é inserida dinamicamente no HTML utilizando JavaScript, permitind
 
 🧾 Exemplo de Frase Gerada
 
-> "Entre o caos e a lenda surge Paolla, uma maga marcada pela habilidade arco e flecha."
+> "Entre o caos e a lenda surge (nome do personagem), uma (sua classe) marcada pela habilidade (sua habilidade)."
 
 ---
 
